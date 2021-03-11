@@ -1,2 +1,3 @@
-# The-Wee-Farm-Project--First-Website
-First website created using HTML and CSS
+# TheWeeFarmProject-MyFirstWebsite
+
+This project is my first attempt at creating a basic website using HTML and CSS
